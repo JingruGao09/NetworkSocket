@@ -1,0 +1,4 @@
+The trace message currently only work for 4096
+Please change to larger size if the player number is greater than 9999
+
+This hot_potato game is implemented in Cpp.
